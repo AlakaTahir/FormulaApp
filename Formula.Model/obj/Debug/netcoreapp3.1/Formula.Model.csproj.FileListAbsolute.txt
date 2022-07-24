@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\Practice\FormulaApp\Formula.Model\bin\Debug\netcoreapp3.1\Formula.Model.deps.json
+C:\Users\HP\Desktop\Practice\FormulaApp\Formula.Model\bin\Debug\netcoreapp3.1\Formula.Model.dll
+C:\Users\HP\Desktop\Practice\FormulaApp\Formula.Model\bin\Debug\netcoreapp3.1\Formula.Model.pdb
+C:\Users\HP\Desktop\Practice\FormulaApp\Formula.Model\obj\Debug\netcoreapp3.1\Formula.Model.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Practice\FormulaApp\Formula.Model\obj\Debug\netcoreapp3.1\Formula.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Practice\FormulaApp\Formula.Model\obj\Debug\netcoreapp3.1\Formula.Model.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Practice\FormulaApp\Formula.Model\obj\Debug\netcoreapp3.1\Formula.Model.AssemblyInfo.cs
+C:\Users\HP\Desktop\Practice\FormulaApp\Formula.Model\obj\Debug\netcoreapp3.1\Formula.Model.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Practice\FormulaApp\Formula.Model\obj\Debug\netcoreapp3.1\Formula.Model.dll
+C:\Users\HP\Desktop\Practice\FormulaApp\Formula.Model\obj\Debug\netcoreapp3.1\Formula.Model.pdb
